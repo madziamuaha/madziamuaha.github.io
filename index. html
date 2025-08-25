@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Strona Madzi</title>
+</head>
+<body>
+  <h1>Hej, tu Madzia 👋</h1>
+  <p>To moja pierwsza stronka na GitHub Pages!</p>
+  <img src="IMG_20250825_191856.jpg" alt="Moje zdjęcie" width="250">
+</body>
+</html>
